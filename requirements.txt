@@ -1,0 +1,4 @@
+Flask==2.2.5
+Flask-CORS==3.0.10
+requests==2.25.1
+DateTime==4.3
